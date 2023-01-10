@@ -98,16 +98,20 @@ packages:
   micro_app_login:
     dependency: "direct main"
     description:
-      path: "../micro_app_login"
-      relative: true
-    source: path
-    version: "0.0.1"
+      path: "."
+      ref: "v1.0.1"
+      resolved-ref: "4c3675645ac57de44d8c0512db8f9f27d35b8d77"
+      url: "https://github.com/RenanLopesAlmeida/flutter_micro_frontends_micro_app_login.git"
+    source: git
+    version: "1.0.1"
   micro_core:
     dependency: "direct main"
     description:
-      path: "../micro_core"
-      relative: true
-    source: path
+      path: "."
+      ref: "v1.0.0"
+      resolved-ref: b8c7049ae5db5f197102adfc9f4344ca091e51f6
+      url: "https://github.com/RenanLopesAlmeida/flutter_micro_frontends_micro_core.git"
+    source: git
     version: "0.0.1"
   path:
     dependency: transitive
