@@ -1,16 +1,62 @@
-# base_app
+# Definições e Padrões do Projeto
 
-A new Flutter project.
+Esta documentação encontra-se alguns acordos firmados pelos times de Desenvolvimento envolvidos com a tecnologia Flutter e como será trabalhado.
 
-## Getting Started
+---
+## Versionamento
 
-This project is a starting point for a Flutter application.
+A Forma de versionamento definida foi utilizando Tags.
 
-A few resources to get you started if this is your first Flutter project:
+´´´
+Listagem de Tags: git tag -n
+Criação de Tags: git tag 'v<mejor.minor.patch>'
+Enviar as Tags: git push --tags
+´´´´
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Links úteis
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
+## Arquitetura
+
+desrição da forma de versionamento
+
+Links úteis
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
+## Testes
+
+desrição da forma de versionamento
+
+Links úteis
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
+## Code Review
+desrição da forma de versionamento
+
+Links úteis
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
+## Scripts 
+desrição da forma de versionamento
+
+Links úteis
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+---
+### Outros
+desrição da forma de versionamento
+
+Links úteis
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
